@@ -1,0 +1,40 @@
+{
+  "compare_products": [
+      [{
+          "source_name": "data_Soruce_1", 
+          "name": "Dior Christian Addict Eau de Parfum 2014 EDP 50 ml W",
+          "ean_code": "3348901182348",
+          "id": "76640"
+       },
+       {
+          "source_name": "data_Soruce_2", 
+          "name": "Dior Addict Edp Spray",
+          "ean_code": "3348901182348",
+          "id": "P-CB-303-50"
+       },
+       {
+          "source_name": "data_Soruce_3", 
+          "name": "DIOR ADDICT eau de parfum spray 50 ml",
+          "ean_code": "3348901182348",
+          "id": "76794"
+      }],
+      [{
+          "source_name": "data_Soruce_1", 
+          "name": "Hugo Boss Boss Ma Vie Pour Femme EDP 75 ml W",
+          "ean_code": "737052802800",
+          "id": "76641"
+        },
+        {
+          "source_name": "data_Soruce_2", 
+          "name": "Hugo Boss Ma Vie Pour Femme Edp Spray",
+          "ean_code": "737052805544",
+          "id": "Q-MW-303-75"
+      },
+      {
+        "source_name": "data_Soruce_3", 
+        "name": "BOSS MA VIE eau de parfum spray 75 ml",
+        "ean_code": "0737052806655",
+        "id": "58396"
+    }]      
+  ]
+  }
